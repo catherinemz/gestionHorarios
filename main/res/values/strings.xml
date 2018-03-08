@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="dia">Día</string>
+    <string name="abierto">Abierto</string>
+    <string name="cerrado">Cerrado</string>
+    <string name="elige_una_imagen">Elige una imagen</string>
+    <string name="escribe_dia_semana">Escribe el día de la semana</string>
+    <string name="hora_de_entrada">Hora de entrada (hh:mm)</string>
+    <string name="hora_de_cierre">Hora de cierre (hh:mm)</string>
+    <string name="guardar">Guardar</string>
+</resources>
